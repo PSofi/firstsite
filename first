@@ -2,18 +2,7 @@
 <html lang="uk">
 <head>
   <title>Перший сайт</title>
-  <style type="text/css">
-  .add{
-    font-family: Stencil;font-size: 13px
-  }
-  .past{
-    text-align: center;font-family: Arial;font-size: 35px
-  }
-  .dab{
-    font-family: Arial;font-size: 23px
-  }
-  </style>
-  <link rel="stylesheet" href="style.css"
+  <link rel="stylesheet" href="style.css">
   </head>
   <body style="background-color: #FF99FF">
 <h1 style="text-align: center;font-family: Arial;font-size: 45px">Софія Петльова</h1>
