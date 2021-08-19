@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <title>Перший сайт</title>
+  <style type="text/css">
+  .add{
+    font-family: Stencil;font-size: 13px
+  }
+  .past{
+    text-align: center;font-family: Arial;font-size: 35px
+  }
+  .dab{
+    font-family: Arial;font-size: 23px
+  }
+  </style>
+  </head>
+  <body style="background-color: #FF99FF">
+<h1 style="text-align: center;font-family: Arial;font-size: 45px">Софія Петльова</h1>
+<h2 class="past">Особисті дані</h2>
+<ul class="dab">
+  <li>Рік народження:2007</li>
+  <li>Стать:жіноча</li>
+  <li>Місто:Ходорів</li>
+</ul>
+<h2 class="past">Освіта</h2>
+<ol>
+  <li class="dab"><a target="_blank"href="https://lv.isuo.org/schools/view/id/12513">ЗЗСО І-ІІІ ст.№1 м.Ходорів</a></li>
+</ol>
+<h2 class="past">Захоплення</h2>
+<p class="dab">Полюбляю читати, робити відео, спілкуватись в Телеграмі, дивлюся відео в Тік Тоці та Ютубі. Зрадістю проведу вечір дивлючись фільм або серіал.
+  У навчальний період граю баскетбол.</p>
+<h2 class="past">Трохи фото</h2>
+<p style="text-align: center;"><img src="images/photo.2.jpg"width="400"alt="селфі"title="Поляна" style="margin-right: 25px;"/>
+<img src="images/photo.1.jpg"width="400"alt="фото"title="Львів" style="margin-right: 25px;"/>
+<img src="images/photo.3.jpg"width="400"alt="селфі"title="Поляна" style="margin-right: 25px;"/>
+</p>
+<p class="add">Instagram: sofiaps0307</p>
+<p class="add">Telegram: Sofia333</p>
+<p class="add">Gmail: petliovasofia@gmail.com</p>
+  </body>
+  </html>
+  
